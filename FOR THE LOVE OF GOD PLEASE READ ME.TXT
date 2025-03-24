@@ -1,0 +1,3 @@
+==========TO DO LİST ===================
+( ) add a exit button to the entry popup.
+( ) add exit button to everything so user can exit the apps. 
