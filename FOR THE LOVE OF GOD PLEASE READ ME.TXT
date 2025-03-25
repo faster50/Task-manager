@@ -1,3 +1,5 @@
 ==========TO DO LİST ===================
-( ) add a exit button to the entry popup.
-( ) add exit button to everything so user can exit the apps. 
+(x) add a exit button to the entry popup.
+(x) add exit button to everything so user can exit the apps. 
+( ) design a logo for the app.
+( ) prepare a document for the app.

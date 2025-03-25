@@ -1,11 +1,10 @@
 {
   "name": "our-goals",
   "productName": "our-goals",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "1.0.2",
+  "description": "A task manager for our tasks.",
   "main": "main.js",
   "type": "module",
-  
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
@@ -18,7 +17,8 @@
   "license": "MIT",
   "dependencies": {
     "better-sqlite3": "^11.9.1",
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "flatpickr": "^4.6.13"
   },
   "devDependencies": {
     "@electron-forge/cli": "^7.7.0",
